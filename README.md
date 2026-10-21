@@ -83,18 +83,31 @@ Net Salary = Basic Salary + Bonus − Deductions
 
 ## 📸 Project Screenshots
 
-All project screenshots are available in the `screenshots` folder.
+## 📸 Project Screenshots
 
-| S.No. | Screenshot | Description |
-|---|---|---|
-| 1 | `db_setup.png` | Database setup |
-| 2 | `departments_table.png` | Department records |
-| 3 | `employees_table.png` | Employee records |
-| 4 | `payroll_table.png` | Payroll records |
-| 5 | `net_salary.png` | Net salary calculation |
-| 6 | `payroll_join.png` | Employee and department salary report |
-| 7 | `highest_salary.png` | Highest net salary report |
-| 8 | `salary_summary.png` | Department-wise salary summary |
+### 1. Database Setup
+![Database Setup](screenshots/db_setup.png)
+
+### 2. Departments Table
+![Departments Table](screenshots/departments_table.png)
+
+### 3. Employees Table
+![Employees Table](screenshots/employees_table.png)
+
+### 4. Payroll Table
+![Payroll Table](screenshots/payroll_table.png)
+
+### 5. Net Salary Calculation
+![Net Salary](screenshots/net_salary.png)
+
+### 6. Payroll Join Report
+![Payroll Join](screenshots/payroll_join.png)
+
+### 7. Highest Salary
+![Highest Salary](screenshots/highest_salary.png)
+
+### 8. Salary Summary
+![Salary Summary](screenshots/salary_summary.png)
 
 ## 📂 Project Structure
 
