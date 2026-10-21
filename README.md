@@ -81,7 +81,6 @@ Net Salary = Basic Salary + Bonus − Deductions
 - `LIMIT`
 - `GROUP BY`
 
-## 📸 Project Screenshots
 
 ## 📸 Project Screenshots
 
