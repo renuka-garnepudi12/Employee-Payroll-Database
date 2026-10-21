@@ -84,29 +84,30 @@ Net Salary = Basic Salary + Bonus − Deductions
 
 ## 📸 Project Screenshots
 
+
 ### 1. Database Setup
-![Database Setup](screenshots/db_setup.png)
+![Database Setup](./screenshots/db_setup.png)
 
 ### 2. Departments Table
-![Departments Table](screenshots/departments_table.png)
+![Departments Table](./screenshots/departments_table.png)
 
 ### 3. Employees Table
-![Employees Table](screenshots/employees_table.png)
+![Employees Table](./screenshots/employees_table.png)
 
 ### 4. Payroll Table
-![Payroll Table](screenshots/payroll_table.png)
+![Payroll Table](./screenshots/payroll_table.png)
 
 ### 5. Net Salary Calculation
-![Net Salary](screenshots/net_salary.png)
+![Net Salary](./screenshots/net_salary.png)
 
 ### 6. Payroll Join Report
-![Payroll Join](screenshots/payroll_join.png)
+![Payroll Join](./screenshots/payroll_join.png)
 
 ### 7. Highest Salary
-![Highest Salary](screenshots/highest_salary.png)
+![Highest Salary](./screenshots/highest_salary.png)
 
 ### 8. Salary Summary
-![Salary Summary](screenshots/salary_summary.png)
+![Salary Summary](./screenshots/salary_summary.png)
 
 ## 📂 Project Structure
 
